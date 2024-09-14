@@ -84,7 +84,9 @@ header img {
   gap: 16px;
 }
 
-.preparation h3 {
+.preparation span {
+  font-size: 18px;
+  font-weight: 800;
   margin: 0;
   padding: 0;
   color: #7f3854;
